@@ -1,2 +1,2 @@
-maven clean
-maven package
+mvn clean
+mvn package
